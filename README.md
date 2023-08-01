@@ -6,12 +6,12 @@
 <br>
 
 # 🙌 About me
-- :school: I am a `Student` at Automotive and Robotics Engineering at `Universitas Bina Nusantara`
+- :school: I am a final-year `Student` majoring in Automotive and Robotics Engineering at `Universitas Bina Nusantara`
 - :books: `Bangkit 2022` Distinction Graduate - `Machine Learning` Learning Path
 - :computer: Tech Enthusiast
 - :bar_chart: Data Scientist, Mechatronics Engineer
 - :student: I’m currently learning: `Deep Learning` and `Computer Vision`.
-- :thinking: I’m currently open for: A new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for: A new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17hG3PKEvNQ2Y8oQ0VacRf89GHwC8oLnt/view?usp=sharing).
 
 <br>
 
